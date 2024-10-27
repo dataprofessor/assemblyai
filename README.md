@@ -10,6 +10,8 @@ In a nutshell, you're building a Python workflow for Question Answering of YouTu
 ### 2. Building a YouTube AI assistant for content creators with Python
 In this video, we'll build a YouTube AI assistant that helps content creators to rapidly generate video timestamps. This is also generally applicable to anyone looking to generate meaningful timestamps that will allow them to zero in on specific contents of any video.
 
+🍿 Watch tutorial video https://youtu.be/RWBSd4Vh-90
+
 ## 🛠️ Tech stack
 - yt-dlp - Command-line audio/video downloader
 - AssemblyAI - Audio processing and analysis
