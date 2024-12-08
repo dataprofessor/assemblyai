@@ -12,6 +12,12 @@ In this video, we'll build a YouTube AI assistant that helps content creators to
 
 🍿 Watch tutorial video https://youtu.be/RWBSd4Vh-90
 
+### 3. Build a YouTube AI assistant in Python that speaks 32 languages
+
+In this tutorial, you'll learn how to build a powerful multilingual YouTube AI assistant using Python! Briefly, I'll show you step-by-step how to code a Python workflow that can extract audio from a video, transcribe it, use LLM to generate a summary of key points and finally synthesize natural sounding speech in up to 32 different languages.
+
+🍿 Watch tutorial video (To be released)
+
 ## 🛠️ Tech stack
 - yt-dlp - Command-line audio/video downloader
 - AssemblyAI - Audio processing and analysis
